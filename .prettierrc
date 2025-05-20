@@ -1,0 +1,22 @@
+{
+  "printWidth": 100,
+  "singleQuote": false,
+  "jsxSingleQuote": true,
+  "trailingComma": "none",
+  "semi": true,
+  "tabWidth": 2,
+  "useTabs": false,
+  "endOfLine": "lf",
+  "arrowParens": "always",
+  "importOrder": [
+    "^(react|react-dom|@hookform|axios|zod|@tanstack/*|react-number-format|zod|react-hook-form)$",
+    "<THIRD_PARTY_MODULES>",
+    "^@/(.*)$",
+    "^[./]"
+  ],
+  "importOrderSeparation": true,
+  "importOrderGroupNamespaceSpecifiers": true,
+  "importOrderSortSpecifiers": true,
+  "tailwindFunctions": ["cn", "cva"],
+  "plugins": ["prettier-plugin-tailwindcss", "@trivago/prettier-plugin-sort-imports"]
+}
