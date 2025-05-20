@@ -1,6 +1,6 @@
 # Otp Auth
 
-**[Перейти на веб-приложение](https://otp-auth.igniz.ru/)**
+**[Перейти на веб-приложение](https://otp-auth.v1sdev.ru/)**
 
 **[Посмотреть проверочный код для авторизации можно здесь](https://shift-intensive.ru/api/otps)**
 
